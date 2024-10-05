@@ -444,8 +444,12 @@ body {
   letter-spacing: 0.02em;
   color: #fff;
 }
-.footer-container-first {
+.footer-container {
   display: flex;
+  align-items: baseline;
+}
+.footer-container-logo {
+  margin-right: 120px;
 }
 .foter-div {
   display: flex;
